@@ -37,6 +37,6 @@ We kindly request that you review each of them before you start working on the r
 
 #### Logo:
 
-  Vyayaka Logo in Orange (#FF671F) | Vyayaka Logo in White (#FFFFFF)
+  Vyayaka Logo in Orange (`#FF671F`) | Vyayaka Logo in White (`#FEFEFE`)
   :-------------------------:|:-------------------------:
-  ![Vyayaka Logo in Orange](https://github.com/vyayaka/.github/assets/68323012/1f706802-8be6-468c-8b74-a21beeeee709) | ![Vyayaka Logo in White](https://github.com/vyayaka/.github/assets/68323012/1f706802-8be6-468c-8b74-a21beeeee709)
+  ![Vyayaka Logo in Orange](https://github.com/vyayaka/.github/assets/68323012/38df92af-88f3-42b6-af8b-0dcd2b945ec3) | ![Vyayaka Logo in White](https://github.com/vyayaka/.github/assets/68323012/57392939-af72-4e5e-990e-108f2544e5b8)
