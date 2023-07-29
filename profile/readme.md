@@ -29,9 +29,7 @@ We kindly request that you review each of them before you start working on the r
 #### Social:
   - Website: https://www.vyayaka.in
   - LinkedIn: https://www.linkedin.com/company/vyayaka
-  - Twitter: https://www.twitter.com/vyayaka_in
   - Mastodon: https://www.mastodon.social/@vyayaka
-  - Koo: https://www.kooapp.com/profile/vyayaka
 
 > Note: We are only on above mention social platforms, and is up to date every minute.
 
